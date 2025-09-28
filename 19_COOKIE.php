@@ -5,7 +5,7 @@
 // Create cookie
 // setcookie("category", "gamer", time()+60*60*12, "/");
 
-// get cookie 
+// get cookie
 $value = $_COOKIE["category"];
-echo "".$value.""; // --> (Browser) : gamer
+echo "".$value."";
 ?>
